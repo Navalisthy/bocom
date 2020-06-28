@@ -13,8 +13,8 @@ function makeid(length) {
  }
 
 const data = {
-  email: `dosalunuyul+${makeid(5)}@emailnyagantilahtolol.net`,
-  password: 'JanganZinaBang'
+  email: `Paptete+${makeid(5)}@mailnesia.com`,
+  password: 'gratisan'
 }
 
 
@@ -66,8 +66,8 @@ console.log(`[+] Register Success | ${data.email}:${data.password}`)
         'hotel_id': id,
         'list_dest_id': 'city%3A%3A-2679652',
         'update_list_search_config': 1,
-        'checkin': '2020-06-27',
-        'checkout': '2020-06-28',
+        'checkin': '2020-07-27',
+        'checkout': '2020-07-28',
         'num_rooms': 1,
         'num_adults': 2,
         'num_children': 0,
